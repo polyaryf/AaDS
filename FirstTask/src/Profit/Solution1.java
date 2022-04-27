@@ -1,3 +1,5 @@
+package Profit;
+
 public class Solution1 {
     static int maxProfit(int[] prices){
         int maxSum = 0;
